@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository
 <br>
-Author-Ritika Bobade(sipna engg amt)
+Author-Ritika rajesh Bobade(sipna engg amt)
